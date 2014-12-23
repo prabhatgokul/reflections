@@ -1,0 +1,42 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It was much quicker and less tedious.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+	If you make mistakes in your code it would be easy to go beck to fix them.
+	If you are following tutorials and writing your own code, it would be easy
+	to go back to previous lessons to see exactly what you learned - comparing
+	two versions would also make this a lot easier.
+
+	What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros - you have control of when you make commits, so they can be logical and
+	tailored to the project you are working on.
+	Cons - you may forget to commit and lose your work.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Some VCS's allow saving multiple files in gits because writing 
+    software applications very often require the use of multiple files.
+    Whereas others such as Google Docs that are not used fore coding
+    would not require multiple files as files are usually independent 
+    of each other.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    You can track the commits from the beginnning of the programming using log, also use --stat to view statistics on each commit. Then you can use diff to compare commits that were found using log
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    You know that you will be able to easily view previous commits to restore your code to a state that was working (if you made a mistake or unwanted change).
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here

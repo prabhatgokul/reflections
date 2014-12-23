@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+	
+	A new .git file is created which will contain the meta-data for all the commits you make. It is needed for version control - making new commits and being able to utilise them
