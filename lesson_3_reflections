@@ -20,3 +20,7 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 	I would try to use dropbox. It would be easier not having to teach the other person how to use git and there may be less errors because git appears to be quite complicated. On the otherhand, it will get quite confusing using dropbox as we would have many files so would be reluctant to save new versions. I would probably just end up adding lots of comments in my code, hoping it would be sufficient.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	When there are changes that you are unsure the other collaborators would agree with as well. It saves a lot of trouble with having to go through the process of merging branches together.
